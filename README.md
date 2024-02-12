@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mycodedaily
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me @mydaily.code on instagram
+- 😄 Pronouns: He/Him
